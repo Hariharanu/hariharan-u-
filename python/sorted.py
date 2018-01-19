@@ -8,6 +8,6 @@ a.sort()
 print("Sorted elements are :",a)
 t=n//2
 if (n%2==0):
-	  print("This list have no middle elements")
+    print("This list have no middle elements")
 else:                                                                                             
     print(" middle elements is ",a[t])     
