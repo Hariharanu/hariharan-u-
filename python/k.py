@@ -1,2 +1,2 @@
-n=float(input("enter the tempearture in cel:"))
+n=int(input("enter the tempearture in cel:"))
 print(n+273.15)
